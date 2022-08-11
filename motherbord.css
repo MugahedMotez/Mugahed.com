@@ -1,0 +1,147 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+header{
+    background-color:#f0f0f0;
+    width:100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 100px; 
+ 
+}
+.nav a {
+   padding: 15px;
+   color: rgb(6, 67, 252);
+   text-decoration: none;
+   font-weight: 900;
+   list-style: lower-alpha;
+
+}
+.nav button{
+   border-radius: 10px;
+   padding: 6px;
+   color: #fff;
+   border:none;
+   background-color: rgb(6, 67, 252);
+   margin: 0px 20px ;
+}
+.nav input {
+   font-size: 15px;
+   padding: 5px 10px;
+   background: none;
+   border-color: rgb(6, 67, 252);
+  border-radius: 9px;
+   color: rgb(6, 67, 252);
+}
+
+.nav a:hover {
+ 
+   background-color: rgb(6, 67, 252);
+   color: #fff;
+   padding: 15px;
+   border-radius: 40px;
+}
+.logo {
+   text-decoration: none;
+   color: rgb(6, 67, 252);
+   font-size: 30px;
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.main_option {
+    padding-left:60px;
+    padding-top: 50px;
+    margin: 20px 10px;
+}
+
+.but {
+ font-size: 15px;
+ font-weight: 600;
+ border-radius: 10px;
+ transition: 0.7s ease;
+}
+
+.but:hover {
+    transform: scale(1.1);
+    opacity:0.6;
+}
+.but a {
+    text-decoration: none;
+    color: #fff;
+}
+#b1{
+    background-color: rgb(6, 67, 252);
+    color: #fff;
+    width: 30%;
+    border: none;
+  margin: 10px;
+   padding: 50px 100px;
+}
+#b2{
+    background-color: rgb(6, 67, 252);
+    color: #fff;
+    width: 30%;
+    border: none;
+    margin: 10px;
+    padding: 50px 100px;
+}
+#b3{
+    background-color: rgb(6, 67, 252);
+    color: #fff;
+    width: 30%;
+    border: none;
+  margin: 10px;
+   padding: 50px 100px;
+}
+#b4{
+background-color: rgb(6, 67, 252);
+color: #fff;
+width: 30%;
+border: none;
+margin: 10px;
+padding: 50px 100px;
+}
+#b5{
+    background-color: rgb(6, 67, 252);
+    color: #fff;
+    width: 30%;
+    border: none;
+    margin: 10px;
+    padding: 50px 100px;
+    }
+    #b6{
+        background-color: rgb(6, 67, 252);
+        color: #fff;
+        width: 30%;
+        border: none;
+        margin: 10px;
+        padding: 50px 100px;
+        }
+        #b7{
+            background-color: rgb(6, 67, 252);
+            color: #fff;
+            width: 30%;
+            border: none;
+            margin: 10px;
+            padding: 50px 100px;
+            }
+            #b8{
+                background-color: rgb(6, 67, 252);
+                color: #fff;
+                width: 30%;
+                border: none;
+                margin: 10px;
+                padding: 50px 100px;
+                }
+                #b9{
+                    background-color: rgb(6, 67, 252);
+                    color: #fff;
+                    width: 30%;
+                    border: none;
+                    margin: 10px;
+                    padding: 50px 100px;
+                    }
+                

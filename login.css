@@ -1,0 +1,100 @@
+.log {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    
+    }
+    /* all */
+    .information{
+        width: 22em;
+        box-shadow: 0 5px 5px rgba(1 1 1 / 15%);
+        padding: 20px;
+        margin: 50px;
+    }
+
+.information .inp {
+    margin: 10px;
+    width: 90%;
+    font-size: 20px;
+    box-sizing: border-box;
+    padding: 5px 10px;
+}
+.information .but {
+background-color: rgb(6, 67, 252);
+color: #fff;
+width: 90%;
+border: none;
+margin: 10px;
+width: 90%;
+font-size: 20px;
+box-sizing: border-box;
+padding: 5px 10px;
+  
+}
+.information .but_google {
+background-color: red;
+color: #fff;
+width: 90%;
+border: none;
+margin: 10px;
+width: 90%;
+font-size: 20px;
+box-sizing: border-box;
+padding: 5px 10px;
+}
+.but_Linked_in{
+background-color:#000;
+color: #fff;
+width: 90%;
+border: none;
+margin: 10px;
+width: 90%;
+font-size: 20px;
+box-sizing: border-box;
+padding: 5px 10px;
+}
+
+a {
+    text-decoration: none;
+    font-size: 20px;
+}
+p {
+    font-size: 20px;
+}
+h2 {
+    letter-spacing: 1px;
+    text-align: center;
+    color: rgb(6, 67, 252);
+    font-size: 40px;
+    font-weight: 600;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; 
+}
+span {
+    color:rgb(6, 67, 252) ;
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; 
+    
+}
+.nav bu{
+    background-color: rgb(6, 67, 252);
+}
+.Session {
+    background-color: rgb(6, 67, 252);
+    color: #fff;
+    width: 90%;
+    border: none;
+  margin: 10px;
+  padding: 5px 10px;
+}
+.information .but_addstd {
+    background-color:rgb(6, 67, 252);
+    color: #fff;
+    width: 90%;
+    border: none;
+    margin: 10px;
+    width: 90%;
+    font-size: 20px;
+    box-sizing: border-box;
+    padding: 5px 10px;
+}
